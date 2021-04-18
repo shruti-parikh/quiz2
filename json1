@@ -1,62 +1,32 @@
 [
     {
-        "question" :"What is the full form of Ajax ?",
-        "options":["Asynchronous JavaScript And XML","Asynchronous jQuery And XML","Asynchronous JavaScript And XHTML","Asynchronous jQuery And XHTML"],
-        "answer":"Asynchronous JavaScript And XML"
+        "question" :"Which Indian company has partnered with Ericsson to deploy 5G radio and transport solutions?",
+        "options":["Jio","Airtel","Idea","BSNL"],
+        "answer":"Airtel"
     
     },
     {
-        "question" :"In AJAX you can ",
-        "options":["Update a web page without reloading the page","Receive data from a server - after the page has loaded","Send data to a server - in the background","All of the above"],
-        "answer":"All of the above"
+        "question" :"Who was the first major world leader confirmed to have COVID-19? ",
+        "options":["Jair Bolsonaro","Boris Johnson","Alexander Lukashenko","Donald Trump"],
+        "answer":"Boris Johnson"
     
     },
     {
-        "question" :"What is the name of the object used for AJAX request ?",
-        "options":["HttpRequest","xmlRequest","XMLHTTPRequest","Request"],
-        "answer":"XMLHTTPRequest"
+        "question" :"What is the name of the tropical cyclone that has made landfalls in Western Australia?",
+        "options":["Seroja","Hud-Hud","Bob ","Nivar"],
+        "answer":"Seroja"
     
     },
     {
-        "question" :"Ajax is a…",
-        "options":["Programing Language","Technology","OOPs concepts","Options B and C"],
-        "answer":"Technology"
+        "question" :"Which country is the first to introduce Climate Change law for Financial sector?",
+        "options":["Brazil","Germany","New Zealand","France"],
+        "answer":"New Zealand"
     
     },
     {
-        "question" :"Implementing AJAX in our websites we can make our web pages ____ ?",
-        "options":["More Dynamic","More interactive and faster","More Responsive","Easy to connect web page with server"],
-        "answer":"More interactive and faster"
+        "question" :"With reference to astronomy, what is ‘Osiris’, that was seen in the news recently?",
+        "options":["Meteor"," Black Hole","Exo-Planet","Asteroid"],
+        "answer":"Exo-Planet"
     
     },
-    {
-        "question" :"AJAX allows web page to dynamically",
-        "options":["Change content","Reload at times","Control other pages","Connect to other addresses"],
-        "answer":"Change content"
-    
-    },
-     {
-        "question" :"___ Of the following technologies, which one provides the ability to dynamically interact with Web page layout ?",
-        "options":["XML","HTML","JavaScript","Document Object Model"],
-        "answer":"Document Object Model"
-    
-    },
-    {
-        "question" :"What does the XMLHttpRequest object accomplish in Ajax ?",
-        "options":["It provides the ability to asynchronously exchange data between Web browser and a Web server","It's the programming language used to develop Ajax applications","It provides the ability to markup and style the display of web-page text","It provides a means of exchanging structured data between the Web server and client"],
-        "answer":"It's the programming language used to develop Ajax applications"
-    
-    },
-    {
-        "question" :" What two main structures compose JSON ?",
-        "options":["Key and value","Class and Object","Arrays and Objects","None of the above"],
-        "answer":"Key and value"
-    
-    },
-    {
-        "question" :"HTML program can be read and rendered by ?",
-        "options":["Compiler","Server","Web Browser","Interpreter"],
-        "answer":"Web Browser"
-    
-    }
     ]
